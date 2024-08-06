@@ -175,13 +175,14 @@ video {
 
 /* Playback Speed */
 .speed {
+
   margin-right: 15px;
 }
 
 
 
 select {
-
+  background:transparent;
   color: var(--font-color);
   border: none;
   font-size: 18px;
